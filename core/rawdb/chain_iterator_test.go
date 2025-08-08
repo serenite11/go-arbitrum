@@ -23,9 +23,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethdb"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core/types"
+	"github.com/serenite11/go-ethereum/ethdb"
 )
 
 func TestChainIterator(t *testing.T) {

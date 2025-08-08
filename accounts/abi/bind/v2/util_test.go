@@ -23,12 +23,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/accounts/abi/bind/v2"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethclient/simulated"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/serenite11/go-ethereum/accounts/abi/bind/v2"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core/types"
+	"github.com/serenite11/go-ethereum/crypto"
+	"github.com/serenite11/go-ethereum/ethclient/simulated"
+	"github.com/serenite11/go-ethereum/params"
 )
 
 var waitDeployedTests = map[string]struct {

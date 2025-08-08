@@ -7,12 +7,12 @@ import (
 	"slices"
 	"sync/atomic"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/tracing"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core"
+	"github.com/serenite11/go-ethereum/core/tracing"
+	"github.com/serenite11/go-ethereum/core/types"
+	"github.com/serenite11/go-ethereum/core/vm"
+	"github.com/serenite11/go-ethereum/params"
 )
 
 // BaseGasDimensionTracer contains the shared functionality between different gas dimension tracers

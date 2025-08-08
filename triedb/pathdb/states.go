@@ -23,11 +23,11 @@ import (
 	"slices"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core/rawdb"
+	"github.com/serenite11/go-ethereum/log"
+	"github.com/serenite11/go-ethereum/metrics"
+	"github.com/serenite11/go-ethereum/rlp"
 )
 
 // counter helps in tracking items and their corresponding sizes.

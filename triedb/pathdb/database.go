@@ -23,15 +23,15 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/trie/trienode"
 	"github.com/ethereum/go-verkle"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core/rawdb"
+	"github.com/serenite11/go-ethereum/core/types"
+	"github.com/serenite11/go-ethereum/crypto"
+	"github.com/serenite11/go-ethereum/ethdb"
+	"github.com/serenite11/go-ethereum/log"
+	"github.com/serenite11/go-ethereum/params"
+	"github.com/serenite11/go-ethereum/trie/trienode"
 )
 
 const (

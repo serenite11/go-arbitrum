@@ -22,8 +22,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/crypto"
 )
 
 func TestMakeTopics(t *testing.T) {

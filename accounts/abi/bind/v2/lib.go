@@ -29,12 +29,12 @@ package bind
 import (
 	"errors"
 
-	"github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/event"
+	"github.com/serenite11/go-ethereum"
+	"github.com/serenite11/go-ethereum/accounts/abi"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core/types"
+	"github.com/serenite11/go-ethereum/crypto"
+	"github.com/serenite11/go-ethereum/event"
 )
 
 // ContractEvent is a type constraint for ABI event types.

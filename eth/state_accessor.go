@@ -22,17 +22,17 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/eth/tracers"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/trie"
-	"github.com/ethereum/go-ethereum/triedb"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core"
+	"github.com/serenite11/go-ethereum/core/rawdb"
+	"github.com/serenite11/go-ethereum/core/state"
+	"github.com/serenite11/go-ethereum/core/types"
+	"github.com/serenite11/go-ethereum/core/vm"
+	"github.com/serenite11/go-ethereum/eth/tracers"
+	"github.com/serenite11/go-ethereum/log"
+	"github.com/serenite11/go-ethereum/metrics"
+	"github.com/serenite11/go-ethereum/trie"
+	"github.com/serenite11/go-ethereum/triedb"
 )
 
 var (

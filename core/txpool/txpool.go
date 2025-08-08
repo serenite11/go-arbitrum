@@ -22,14 +22,14 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto/kzg4844"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core"
+	"github.com/serenite11/go-ethereum/core/state"
+	"github.com/serenite11/go-ethereum/core/types"
+	"github.com/serenite11/go-ethereum/crypto/kzg4844"
+	"github.com/serenite11/go-ethereum/event"
+	"github.com/serenite11/go-ethereum/log"
+	"github.com/serenite11/go-ethereum/params"
 )
 
 // TxStatus is the current status of a transaction as seen by the pool.

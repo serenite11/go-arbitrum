@@ -23,11 +23,11 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/internal/flags"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core/types"
+	"github.com/serenite11/go-ethereum/crypto"
+	"github.com/serenite11/go-ethereum/internal/flags"
+	"github.com/serenite11/go-ethereum/rlp"
 	"github.com/urfave/cli/v2"
 )
 

@@ -20,10 +20,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/crypto"
+	"github.com/serenite11/go-ethereum/ethdb"
+	"github.com/serenite11/go-ethereum/log"
 )
 
 // HistoryStats wraps the history inspection statistics.

@@ -33,9 +33,9 @@ import (
 	"slices"
 	"strconv"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core"
+	"github.com/serenite11/go-ethereum/rlp"
 )
 
 type allocItem struct {

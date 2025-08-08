@@ -20,13 +20,13 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus/misc"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/tracing"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/consensus/misc"
+	"github.com/serenite11/go-ethereum/core/state"
+	"github.com/serenite11/go-ethereum/core/tracing"
+	"github.com/serenite11/go-ethereum/core/types"
+	"github.com/serenite11/go-ethereum/core/vm"
+	"github.com/serenite11/go-ethereum/params"
 )
 
 // StateProcessor is a basic Processor, which takes care of transitioning

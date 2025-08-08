@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ethereum/go-ethereum/core/tracing"
-	"github.com/ethereum/go-ethereum/eth/tracers"
+	"github.com/serenite11/go-ethereum/core/tracing"
+	"github.com/serenite11/go-ethereum/eth/tracers"
 )
 
 type blockInsertTimes struct {

@@ -23,8 +23,8 @@ import (
 
 	"github.com/cockroachdb/pebble"
 	"github.com/cockroachdb/pebble/vfs"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/ethdb/dbtest"
+	"github.com/serenite11/go-ethereum/ethdb"
+	"github.com/serenite11/go-ethereum/ethdb/dbtest"
 )
 
 func TestPebbleDB(t *testing.T) {

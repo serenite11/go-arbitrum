@@ -22,11 +22,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/common/mclock"
+	"github.com/serenite11/go-ethereum/log"
+	"github.com/serenite11/go-ethereum/metrics"
+	"github.com/serenite11/go-ethereum/p2p"
 )
 
 const (

@@ -7,15 +7,15 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ethereum/go-ethereum/core/tracing"
-	"github.com/ethereum/go-ethereum/eth/tracers"
-	"github.com/ethereum/go-ethereum/eth/tracers/native"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/serenite11/go-ethereum/core/tracing"
+	"github.com/serenite11/go-ethereum/eth/tracers"
+	"github.com/serenite11/go-ethereum/eth/tracers/native"
+	"github.com/serenite11/go-ethereum/params"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	_vm "github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/core/types"
+	_vm "github.com/serenite11/go-ethereum/core/vm"
+	"github.com/serenite11/go-ethereum/log"
 )
 
 // initializer for the tracer

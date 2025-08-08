@@ -19,9 +19,9 @@ package vm
 import (
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/params"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-ethereum/common"
+	"github.com/serenite11/go-ethereum/params"
 )
 
 // Computes the cost of doing a state load in wasm
