@@ -23,14 +23,14 @@ import (
 	"math/big"
 	"slices"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/consensus/misc/eip4844"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/crypto"
-	"github.com/ethereum/go-arbitrum/ethdb"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/params"
-	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/consensus/misc/eip4844"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/crypto"
+	"github.com/serenite11/go-arbitrum/ethdb"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 // ReadCanonicalHash retrieves the hash assigned to a canonical block number.

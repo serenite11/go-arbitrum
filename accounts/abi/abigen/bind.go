@@ -29,8 +29,8 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/ethereum/go-arbitrum/accounts/abi"
-	"github.com/ethereum/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/accounts/abi"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 func isKeyWord(arg string) bool {

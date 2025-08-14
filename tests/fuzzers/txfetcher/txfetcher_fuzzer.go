@@ -23,10 +23,10 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/mclock"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/eth/fetcher"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/mclock"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/eth/fetcher"
 )
 
 var (

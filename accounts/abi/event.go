@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/crypto"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/crypto"
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

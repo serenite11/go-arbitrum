@@ -22,16 +22,16 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/math"
-	"github.com/ethereum/go-arbitrum/consensus/misc/eip4844"
-	"github.com/ethereum/go-arbitrum/core"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/math"
+	"github.com/serenite11/go-arbitrum/consensus/misc/eip4844"
+	"github.com/serenite11/go-arbitrum/core"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/core/vm"
 
 	// Force-load native and js packages, to trigger registration
-	_ "github.com/ethereum/go-arbitrum/eth/tracers/js"
-	_ "github.com/ethereum/go-arbitrum/eth/tracers/native"
+	_ "github.com/serenite11/go-arbitrum/eth/tracers/js"
+	_ "github.com/serenite11/go-arbitrum/eth/tracers/native"
 )
 
 // camel converts a snake cased input string into a camel cased output.

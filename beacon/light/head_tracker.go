@@ -21,10 +21,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/beacon/params"
-	"github.com/ethereum/go-arbitrum/beacon/types"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/beacon/params"
+	"github.com/serenite11/go-arbitrum/beacon/types"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 // HeadTracker keeps track of the latest validated head and the "prefetch" head

@@ -26,8 +26,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/core/vm"
-	"github.com/ethereum/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/log"
 	"github.com/urfave/cli/v2"
 )
 

@@ -7,9 +7,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/hexutil"
-	"github.com/ethereum/go-arbitrum/common/math"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/hexutil"
+	"github.com/serenite11/go-arbitrum/common/math"
 )
 
 var _ = (*accountMarshaling)(nil)

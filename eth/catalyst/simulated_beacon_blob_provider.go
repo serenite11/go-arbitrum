@@ -6,9 +6,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-arbitrum/beacon/engine"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/crypto/kzg4844"
+	"github.com/serenite11/go-arbitrum/beacon/engine"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/crypto/kzg4844"
 )
 
 // GetBlobs is a mimic of blobSidecars function (https://github.com/OffchainLabs/nitro/blob/a4b72abd63df46de920580685842491d550dfc20/util/headerreader/blob_client.go#L199)

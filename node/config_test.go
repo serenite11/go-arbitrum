@@ -23,8 +23,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/crypto"
-	"github.com/ethereum/go-arbitrum/p2p"
+	"github.com/serenite11/go-arbitrum/crypto"
+	"github.com/serenite11/go-arbitrum/p2p"
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

@@ -28,10 +28,10 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/ethereum/go-arbitrum/common/mclock"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
-	"github.com/ethereum/go-arbitrum/p2p/enr"
-	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/serenite11/go-arbitrum/common/mclock"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/p2p/enr"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 // TODO concurrent WHOAREYOU tie-breaker

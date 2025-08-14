@@ -19,7 +19,7 @@ package params
 import (
 	_ "embed"
 
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 //go:embed checkpoint_mainnet.hex

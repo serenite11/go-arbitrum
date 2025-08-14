@@ -21,8 +21,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/rpc"
 )
 
 // StartHTTPEndpoint starts the HTTP RPC endpoint.

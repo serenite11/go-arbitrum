@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/internal/cmdtest"
-	"github.com/ethereum/go-arbitrum/internal/reexec"
-	"github.com/ethereum/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/internal/cmdtest"
+	"github.com/serenite11/go-arbitrum/internal/reexec"
+	"github.com/serenite11/go-arbitrum/rpc"
 )
 
 type testgeth struct {

@@ -19,7 +19,7 @@ package types
 import (
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 // TestParseDelegation tests a few possible delegation designator values and

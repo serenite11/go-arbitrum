@@ -29,12 +29,12 @@ package bind
 import (
 	"errors"
 
-	"github.com/ethereum/go-arbitrum"
-	"github.com/ethereum/go-arbitrum/accounts/abi"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/crypto"
-	"github.com/ethereum/go-arbitrum/event"
+	"github.com/serenite11/go-arbitrum"
+	"github.com/serenite11/go-arbitrum/accounts/abi"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/crypto"
+	"github.com/serenite11/go-arbitrum/event"
 )
 
 // ContractEvent is a type constraint for ABI event types.

@@ -21,7 +21,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 func TestMemoryCopy(t *testing.T) {

@@ -23,9 +23,9 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/p2p"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/p2p"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
 )
 
 // testPeer is a simulated peer to allow testing direct network calls.

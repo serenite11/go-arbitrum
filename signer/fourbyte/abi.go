@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/accounts/abi"
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/accounts/abi"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 // decodedCallData is an internal type to represent a method call parsed according

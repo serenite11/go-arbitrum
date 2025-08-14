@@ -23,10 +23,10 @@ import (
 	"maps"
 	"math/big"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/crypto"
-	"github.com/ethereum/go-arbitrum/params"
-	"github.com/ethereum/go-arbitrum/params/forks"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/crypto"
+	"github.com/serenite11/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/params/forks"
 )
 
 var ErrInvalidChainId = errors.New("invalid chain id for signer")

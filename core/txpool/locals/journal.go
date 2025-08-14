@@ -22,10 +22,10 @@ import (
 	"io/fs"
 	"os"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 // errNoActiveJournal is returned if a transaction is attempted to be inserted

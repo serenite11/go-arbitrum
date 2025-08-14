@@ -20,7 +20,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 func bigFromHex(hex string) *big.Int {

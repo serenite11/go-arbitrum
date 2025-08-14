@@ -8,10 +8,10 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-arbitrum/accounts/abi"
-	"github.com/ethereum/go-arbitrum/accounts/abi/bind/v2"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/accounts/abi"
+	"github.com/serenite11/go-arbitrum/accounts/abi/bind/v2"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/types"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

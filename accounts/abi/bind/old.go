@@ -15,7 +15,7 @@
 // along with the go-ethereum library. If not, see <http://www.gnu.org/licenses/>.
 
 // Package bind is the runtime for abigen v1 generated contract bindings.
-// Deprecated: please use github.com/ethereum/go-arbitrum/bind/v2
+// Deprecated: please use github.com/serenite11/go-arbitrum/bind/v2
 package bind
 
 import (
@@ -27,20 +27,20 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ethereum/go-arbitrum/accounts"
-	"github.com/ethereum/go-arbitrum/accounts/abi"
-	"github.com/ethereum/go-arbitrum/accounts/abi/abigen"
-	bind2 "github.com/ethereum/go-arbitrum/accounts/abi/bind/v2"
-	"github.com/ethereum/go-arbitrum/accounts/external"
-	"github.com/ethereum/go-arbitrum/accounts/keystore"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/crypto"
-	"github.com/ethereum/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/accounts"
+	"github.com/serenite11/go-arbitrum/accounts/abi"
+	"github.com/serenite11/go-arbitrum/accounts/abi/abigen"
+	bind2 "github.com/serenite11/go-arbitrum/accounts/abi/bind/v2"
+	"github.com/serenite11/go-arbitrum/accounts/external"
+	"github.com/serenite11/go-arbitrum/accounts/keystore"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/crypto"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 // Bind generates a v1 contract binding.
-// Deprecated: binding generation has moved to github.com/ethereum/go-arbitrum/accounts/abi/abigen
+// Deprecated: binding generation has moved to github.com/serenite11/go-arbitrum/accounts/abi/abigen
 func Bind(types []string, abis []string, bytecodes []string, fsigs []map[string]string, pkg string, libs map[string]string, aliases map[string]string) (string, error) {
 	return abigen.Bind(types, abis, bytecodes, fsigs, pkg, libs, aliases)
 }

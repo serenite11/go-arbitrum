@@ -19,7 +19,7 @@ package snap
 import (
 	"time"
 
-	"github.com/ethereum/go-arbitrum/p2p/tracker"
+	"github.com/serenite11/go-arbitrum/p2p/tracker"
 )
 
 // requestTracker is a singleton tracker for request times.

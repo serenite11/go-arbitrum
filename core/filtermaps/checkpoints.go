@@ -20,7 +20,7 @@ import (
 	_ "embed"
 	"encoding/json"
 
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 // checkpointList lists checkpoints for finalized epochs of a given chain.

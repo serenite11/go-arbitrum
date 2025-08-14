@@ -24,9 +24,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/crypto"
-	"github.com/ethereum/go-arbitrum/internal/utesting"
-	"github.com/ethereum/go-arbitrum/p2p/discover/v4wire"
+	"github.com/serenite11/go-arbitrum/crypto"
+	"github.com/serenite11/go-arbitrum/internal/utesting"
+	"github.com/serenite11/go-arbitrum/p2p/discover/v4wire"
 )
 
 const (

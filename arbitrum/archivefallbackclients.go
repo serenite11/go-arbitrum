@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"sort"
 
-	"github.com/ethereum/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/core/types"
 )
 
 type lastBlockAndClient struct {

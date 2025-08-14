@@ -5,11 +5,11 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/math"
-	"github.com/ethereum/go-arbitrum/core/state"
-	"github.com/ethereum/go-arbitrum/rpc"
 	"github.com/pkg/errors"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/math"
+	"github.com/serenite11/go-arbitrum/core/state"
+	"github.com/serenite11/go-arbitrum/rpc"
 )
 
 type rejectedError struct {

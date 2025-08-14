@@ -20,10 +20,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/consensus/ethash"
-	"github.com/ethereum/go-arbitrum/core/rawdb"
-	"github.com/ethereum/go-arbitrum/core/vm"
-	"github.com/ethereum/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/consensus/ethash"
+	"github.com/serenite11/go-arbitrum/core/rawdb"
+	"github.com/serenite11/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/params"
 )
 
 // Tests that DAO-fork enabled clients can properly filter out fork-commencing

@@ -26,9 +26,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/internal/flags"
-	"github.com/ethereum/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/internal/flags"
+	"github.com/serenite11/go-arbitrum/rpc"
 	"github.com/urfave/cli/v2"
 )
 

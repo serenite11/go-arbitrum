@@ -27,7 +27,7 @@ import (
 	"golang.org/x/tools/go/packages"
 )
 
-const pathOfPackageRLP = "github.com/ethereum/go-arbitrum/rlp"
+const pathOfPackageRLP = "github.com/serenite11/go-arbitrum/rlp"
 
 func main() {
 	var (

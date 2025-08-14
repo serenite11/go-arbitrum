@@ -20,12 +20,12 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/hexutil"
-	"github.com/ethereum/go-arbitrum/consensus"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/rlp"
-	"github.com/ethereum/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/hexutil"
+	"github.com/serenite11/go-arbitrum/consensus"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/rlp"
+	"github.com/serenite11/go-arbitrum/rpc"
 )
 
 // API is a user facing RPC API to allow controlling the signer and voting

@@ -21,7 +21,7 @@ import (
 	"os"
 	"runtime/trace"
 
-	"github.com/ethereum/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 // StartGoTrace turns on tracing, writing to the given file.

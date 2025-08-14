@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/metrics"
+	"github.com/serenite11/go-arbitrum/metrics"
 )
 
 func TestCollectRuntimeMetrics(t *testing.T) {

@@ -21,8 +21,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/accounts/keystore"
-	"github.com/ethereum/go-arbitrum/cmd/utils"
+	"github.com/serenite11/go-arbitrum/accounts/keystore"
+	"github.com/serenite11/go-arbitrum/cmd/utils"
 	"github.com/urfave/cli/v2"
 )
 

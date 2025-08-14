@@ -17,9 +17,9 @@
 package eth
 
 import (
-	"github.com/ethereum/go-arbitrum/core"
-	"github.com/ethereum/go-arbitrum/eth/protocols/snap"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/core"
+	"github.com/serenite11/go-arbitrum/eth/protocols/snap"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
 )
 
 // snapHandler implements the snap.Backend interface to handle the various network

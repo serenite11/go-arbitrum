@@ -24,12 +24,12 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/accounts/abi/abigen"
-	"github.com/ethereum/go-arbitrum/cmd/utils"
-	"github.com/ethereum/go-arbitrum/common/compiler"
-	"github.com/ethereum/go-arbitrum/crypto"
-	"github.com/ethereum/go-arbitrum/internal/flags"
-	"github.com/ethereum/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/accounts/abi/abigen"
+	"github.com/serenite11/go-arbitrum/cmd/utils"
+	"github.com/serenite11/go-arbitrum/common/compiler"
+	"github.com/serenite11/go-arbitrum/crypto"
+	"github.com/serenite11/go-arbitrum/internal/flags"
+	"github.com/serenite11/go-arbitrum/log"
 	"github.com/urfave/cli/v2"
 )
 

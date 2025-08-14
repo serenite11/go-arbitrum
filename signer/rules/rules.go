@@ -24,11 +24,11 @@ import (
 	"strings"
 
 	"github.com/dop251/goja"
-	"github.com/ethereum/go-arbitrum/internal/ethapi"
-	"github.com/ethereum/go-arbitrum/internal/jsre/deps"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/signer/core"
-	"github.com/ethereum/go-arbitrum/signer/storage"
+	"github.com/serenite11/go-arbitrum/internal/ethapi"
+	"github.com/serenite11/go-arbitrum/internal/jsre/deps"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/signer/core"
+	"github.com/serenite11/go-arbitrum/signer/storage"
 )
 
 // consoleOutput is an override for the console.log and console.error methods to

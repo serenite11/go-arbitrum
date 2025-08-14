@@ -22,7 +22,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/common/hexutil"
+	"github.com/serenite11/go-arbitrum/common/hexutil"
 )
 
 // Tests that data bitset encoding and decoding works and is bijective.

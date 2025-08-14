@@ -27,7 +27,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/ethereum/go-arbitrum/common/math"
+	"github.com/serenite11/go-arbitrum/common/math"
 	"github.com/urfave/cli/v2"
 )
 

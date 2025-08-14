@@ -19,9 +19,9 @@ package core
 import (
 	"sync/atomic"
 
-	"github.com/ethereum/go-arbitrum/core/state"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/core/state"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/core/vm"
 )
 
 // Validator is an interface which defines the standard for block validation. It

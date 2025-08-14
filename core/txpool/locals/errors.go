@@ -19,8 +19,8 @@ package locals
 import (
 	"errors"
 
-	"github.com/ethereum/go-arbitrum/core/txpool"
-	"github.com/ethereum/go-arbitrum/core/txpool/legacypool"
+	"github.com/serenite11/go-arbitrum/core/txpool"
+	"github.com/serenite11/go-arbitrum/core/txpool/legacypool"
 )
 
 // IsTemporaryReject determines whether the given error indicates a temporary

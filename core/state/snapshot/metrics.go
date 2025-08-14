@@ -16,7 +16,7 @@
 
 package snapshot
 
-import "github.com/ethereum/go-arbitrum/metrics"
+import "github.com/serenite11/go-arbitrum/metrics"
 
 // Metrics in generation
 var (

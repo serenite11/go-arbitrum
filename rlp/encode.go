@@ -23,8 +23,8 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/ethereum/go-arbitrum/rlp/internal/rlpstruct"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/rlp/internal/rlpstruct"
 )
 
 var (

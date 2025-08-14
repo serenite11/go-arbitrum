@@ -17,9 +17,9 @@
 package snap
 
 import (
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/p2p"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/p2p"
 )
 
 // Peer is a collection of relevant information we have about a `snap` peer.

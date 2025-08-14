@@ -22,8 +22,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
 )
 
 type crawler struct {

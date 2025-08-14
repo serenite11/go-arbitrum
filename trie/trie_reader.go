@@ -17,9 +17,9 @@
 package trie
 
 import (
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/triedb/database"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/triedb/database"
 )
 
 // trieReader is a wrapper of the underlying node reader. It's not safe

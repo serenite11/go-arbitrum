@@ -1,5 +1,5 @@
 language: go
-go_import_path: github.com/ethereum/go-arbitrum
+go_import_path: github.com/serenite11/go-arbitrum
 sudo: false
 jobs:
   include:

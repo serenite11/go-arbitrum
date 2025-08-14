@@ -19,7 +19,7 @@ package request
 import (
 	"sync"
 
-	"github.com/ethereum/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 // Module represents a mechanism which is typically responsible for downloading

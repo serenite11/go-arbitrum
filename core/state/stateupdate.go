@@ -19,9 +19,9 @@ package state
 import (
 	"maps"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/trie/trienode"
-	"github.com/ethereum/go-arbitrum/triedb"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/trie/trienode"
+	"github.com/serenite11/go-arbitrum/triedb"
 )
 
 // contractCode represents a contract code with associated metadata.

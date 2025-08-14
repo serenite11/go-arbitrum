@@ -19,10 +19,10 @@ package core
 import (
 	"sync/atomic"
 
-	"github.com/ethereum/go-arbitrum/core/state"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/core/vm"
-	"github.com/ethereum/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/core/state"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/params"
 )
 
 // statePrefetcher is a basic Prefetcher, which blindly executes a block on top

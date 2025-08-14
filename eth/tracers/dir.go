@@ -20,9 +20,9 @@ import (
 	"encoding/json"
 	"math/big"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/tracing"
-	"github.com/ethereum/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/tracing"
+	"github.com/serenite11/go-arbitrum/params"
 )
 
 // Context contains some contextual infos for a transaction execution that is not

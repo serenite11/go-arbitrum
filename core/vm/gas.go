@@ -17,9 +17,9 @@
 package vm
 
 import (
-	"github.com/ethereum/go-arbitrum/arbitrum/multigas"
-	"github.com/ethereum/go-arbitrum/params"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/arbitrum/multigas"
+	"github.com/serenite11/go-arbitrum/params"
 )
 
 // Gas costs

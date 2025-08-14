@@ -22,15 +22,15 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/ethereum/go-arbitrum"
-	"github.com/ethereum/go-arbitrum/accounts"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/hexutil"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/event"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/rpc"
-	"github.com/ethereum/go-arbitrum/signer/core/apitypes"
+	"github.com/serenite11/go-arbitrum"
+	"github.com/serenite11/go-arbitrum/accounts"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/hexutil"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/event"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/signer/core/apitypes"
 )
 
 type ExternalBackend struct {

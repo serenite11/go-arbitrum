@@ -25,12 +25,12 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ethereum/go-arbitrum/crypto"
-	"github.com/ethereum/go-arbitrum/eth/protocols/eth"
-	"github.com/ethereum/go-arbitrum/eth/protocols/snap"
-	"github.com/ethereum/go-arbitrum/p2p"
-	"github.com/ethereum/go-arbitrum/p2p/rlpx"
-	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/serenite11/go-arbitrum/crypto"
+	"github.com/serenite11/go-arbitrum/eth/protocols/eth"
+	"github.com/serenite11/go-arbitrum/eth/protocols/snap"
+	"github.com/serenite11/go-arbitrum/p2p"
+	"github.com/serenite11/go-arbitrum/p2p/rlpx"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 var (

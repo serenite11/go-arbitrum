@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ethereum/go-arbitrum/node"
+	"github.com/serenite11/go-arbitrum/node"
 )
 
 // SampleLifecycle is a trivial network service that can be attached to a node for

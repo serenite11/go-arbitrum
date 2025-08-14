@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/state"
-	"github.com/ethereum/go-arbitrum/core/tracing"
-	"github.com/ethereum/go-arbitrum/core/vm"
-	"github.com/ethereum/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/state"
+	"github.com/serenite11/go-arbitrum/core/tracing"
+	"github.com/serenite11/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/params"
 )
 
 // GasesByDimension is a type that represents the gas consumption for each dimension

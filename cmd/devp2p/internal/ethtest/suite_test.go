@@ -24,14 +24,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/hexutil"
-	"github.com/ethereum/go-arbitrum/eth"
-	"github.com/ethereum/go-arbitrum/eth/catalyst"
-	"github.com/ethereum/go-arbitrum/eth/ethconfig"
-	"github.com/ethereum/go-arbitrum/internal/utesting"
-	"github.com/ethereum/go-arbitrum/node"
-	"github.com/ethereum/go-arbitrum/p2p"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/hexutil"
+	"github.com/serenite11/go-arbitrum/eth"
+	"github.com/serenite11/go-arbitrum/eth/catalyst"
+	"github.com/serenite11/go-arbitrum/eth/ethconfig"
+	"github.com/serenite11/go-arbitrum/internal/utesting"
+	"github.com/serenite11/go-arbitrum/node"
+	"github.com/serenite11/go-arbitrum/p2p"
 )
 
 func makeJWTSecret(t *testing.T) (string, [32]byte, error) {

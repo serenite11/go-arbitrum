@@ -16,7 +16,7 @@
 
 package state
 
-import "github.com/ethereum/go-arbitrum/metrics"
+import "github.com/serenite11/go-arbitrum/metrics"
 
 var (
 	accountReadMeters        = metrics.NewRegisteredMeter("state/read/account", nil)

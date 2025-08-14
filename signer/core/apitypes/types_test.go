@@ -21,10 +21,10 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/crypto/kzg4844"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/crypto/kzg4844"
 )
 
 func TestIsPrimitive(t *testing.T) {

@@ -20,10 +20,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common/mclock"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/p2p/enr"
-	"github.com/ethereum/go-arbitrum/p2p/nat"
+	"github.com/serenite11/go-arbitrum/common/mclock"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/p2p/enr"
+	"github.com/serenite11/go-arbitrum/p2p/nat"
 )
 
 const (

@@ -20,10 +20,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-arbitrum/arbitrum/multigas"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/math"
-	"github.com/ethereum/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/arbitrum/multigas"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/math"
+	"github.com/serenite11/go-arbitrum/params"
 )
 
 // memoryGasCost calculates the quadratic gas for memory expansion. It does so

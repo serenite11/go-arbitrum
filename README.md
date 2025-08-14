@@ -3,9 +3,9 @@
 Golang execution layer implementation of the Ethereum protocol.
 
 [![API Reference](
-https://pkg.go.dev/badge/github.com/ethereum/go-arbitrum
-)](https://pkg.go.dev/github.com/ethereum/go-arbitrum?tab=doc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/ethereum/go-arbitrum)](https://goreportcard.com/report/github.com/ethereum/go-arbitrum)
+https://pkg.go.dev/badge/github.com/serenite11/go-arbitrum
+)](https://pkg.go.dev/github.com/serenite11/go-arbitrum?tab=doc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/serenite11/go-arbitrum)](https://goreportcard.com/report/github.com/serenite11/go-arbitrum)
 [![Travis](https://app.travis-ci.com/ethereum/go-ethereum.svg?branch=master)](https://app.travis-ci.com/github/ethereum/go-ethereum)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/nthXNEv)
 
@@ -241,7 +241,7 @@ testing procedures.
 ### Contributing to geth.ethereum.org
 
 For contributions to the [go-ethereum website](https://geth.ethereum.org), please checkout and raise pull requests against the `website` branch.
-For more detailed instructions please see the `website` branch [README](https://github.com/ethereum/go-arbitrum/tree/website#readme) or the 
+For more detailed instructions please see the `website` branch [README](https://github.com/serenite11/go-arbitrum/tree/website#readme) or the 
 [contributing](https://geth.ethereum.org/docs/developers/geth-developer/contributing) page of the website.
 
 ## License

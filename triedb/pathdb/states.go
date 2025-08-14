@@ -23,11 +23,11 @@ import (
 	"slices"
 	"sync"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/rawdb"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/metrics"
-	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/rawdb"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/metrics"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 // counter helps in tracking items and their corresponding sizes.

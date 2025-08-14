@@ -19,7 +19,7 @@ package internal
 import (
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/core/vm"
 )
 
 func TestMemCopying(t *testing.T) {

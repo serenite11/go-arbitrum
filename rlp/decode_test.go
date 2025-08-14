@@ -28,8 +28,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/common/math"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/common/math"
 )
 
 func TestStreamKind(t *testing.T) {

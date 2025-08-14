@@ -21,7 +21,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 // transientStorage is a representation of EIP-1153 "Transient Storage".

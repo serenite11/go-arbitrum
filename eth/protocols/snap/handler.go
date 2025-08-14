@@ -21,16 +21,16 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/metrics"
-	"github.com/ethereum/go-arbitrum/p2p"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
-	"github.com/ethereum/go-arbitrum/p2p/enr"
-	"github.com/ethereum/go-arbitrum/trie"
-	"github.com/ethereum/go-arbitrum/trie/trienode"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/metrics"
+	"github.com/serenite11/go-arbitrum/p2p"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/p2p/enr"
+	"github.com/serenite11/go-arbitrum/trie"
+	"github.com/serenite11/go-arbitrum/trie/trienode"
 )
 
 const (

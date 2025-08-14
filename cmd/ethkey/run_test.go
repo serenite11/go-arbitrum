@@ -21,8 +21,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/internal/cmdtest"
-	"github.com/ethereum/go-arbitrum/internal/reexec"
+	"github.com/serenite11/go-arbitrum/internal/cmdtest"
+	"github.com/serenite11/go-arbitrum/internal/reexec"
 )
 
 type testEthkey struct {

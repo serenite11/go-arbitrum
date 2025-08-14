@@ -23,9 +23,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/internal/version"
-	"github.com/ethereum/go-arbitrum/log"
 	"github.com/mattn/go-isatty"
+	"github.com/serenite11/go-arbitrum/internal/version"
+	"github.com/serenite11/go-arbitrum/log"
 	"github.com/urfave/cli/v2"
 )
 

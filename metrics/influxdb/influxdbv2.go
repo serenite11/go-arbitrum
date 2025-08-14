@@ -4,10 +4,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/metrics"
 	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
 	"github.com/influxdata/influxdb-client-go/v2/api"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/metrics"
 )
 
 type v2Reporter struct {

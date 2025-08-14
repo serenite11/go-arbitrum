@@ -19,7 +19,7 @@ package p2p
 import (
 	"container/heap"
 
-	"github.com/ethereum/go-arbitrum/common/mclock"
+	"github.com/serenite11/go-arbitrum/common/mclock"
 )
 
 // expHeap tracks strings and their expiry time.

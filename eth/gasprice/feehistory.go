@@ -26,12 +26,12 @@ import (
 	"slices"
 	"sync/atomic"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/consensus/misc/eip1559"
-	"github.com/ethereum/go-arbitrum/consensus/misc/eip4844"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/consensus/misc/eip1559"
+	"github.com/serenite11/go-arbitrum/consensus/misc/eip4844"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/rpc"
 )
 
 var (

@@ -17,8 +17,8 @@
 package triedb
 
 import (
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/triedb/pathdb"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/triedb/pathdb"
 )
 
 // StateSet represents a collection of mutated states during a state transition.

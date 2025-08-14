@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/core/vm"
-	"github.com/ethereum/go-arbitrum/tests"
+	"github.com/serenite11/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/tests"
 	"github.com/urfave/cli/v2"
 )
 

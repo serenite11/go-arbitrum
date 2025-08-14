@@ -24,7 +24,7 @@ import (
 	"reflect"
 	"sync/atomic"
 
-	"github.com/ethereum/go-arbitrum/common/hexutil"
+	"github.com/serenite11/go-arbitrum/common/hexutil"
 )
 
 //go:embed trusted_setup.json

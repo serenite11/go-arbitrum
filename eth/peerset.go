@@ -21,10 +21,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/eth/protocols/eth"
-	"github.com/ethereum/go-arbitrum/eth/protocols/snap"
-	"github.com/ethereum/go-arbitrum/p2p"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/eth/protocols/eth"
+	"github.com/serenite11/go-arbitrum/eth/protocols/snap"
+	"github.com/serenite11/go-arbitrum/p2p"
 )
 
 var (

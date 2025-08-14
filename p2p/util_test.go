@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common/mclock"
+	"github.com/serenite11/go-arbitrum/common/mclock"
 )
 
 func TestExpHeap(t *testing.T) {

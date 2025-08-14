@@ -32,11 +32,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/internal/testlog"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/p2p/discover/v4wire"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
-	"github.com/ethereum/go-arbitrum/p2p/enr"
+	"github.com/serenite11/go-arbitrum/internal/testlog"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/p2p/discover/v4wire"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/p2p/enr"
 )
 
 // shared test variables

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/core/rawdb"
-	"github.com/ethereum/go-arbitrum/eth/ethconfig"
+	"github.com/serenite11/go-arbitrum/core/rawdb"
+	"github.com/serenite11/go-arbitrum/eth/ethconfig"
 	flag "github.com/spf13/pflag"
 )
 

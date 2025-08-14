@@ -26,10 +26,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/log"
 	"github.com/huin/goupnp"
 	"github.com/huin/goupnp/dcps/internetgateway1"
 	"github.com/huin/goupnp/dcps/internetgateway2"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 const (

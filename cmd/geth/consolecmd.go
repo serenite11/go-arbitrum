@@ -21,8 +21,8 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/cmd/utils"
-	"github.com/ethereum/go-arbitrum/console"
+	"github.com/serenite11/go-arbitrum/cmd/utils"
+	"github.com/serenite11/go-arbitrum/console"
 	"github.com/urfave/cli/v2"
 )
 

@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/rpc"
 )
 
 // This example configures a HTTP-based RPC client with two options - one setting the

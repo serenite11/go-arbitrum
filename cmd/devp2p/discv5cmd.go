@@ -22,9 +22,9 @@ import (
 	"slices"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/cmd/devp2p/internal/v5test"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/p2p/discover"
+	"github.com/serenite11/go-arbitrum/cmd/devp2p/internal/v5test"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/p2p/discover"
 	"github.com/urfave/cli/v2"
 )
 

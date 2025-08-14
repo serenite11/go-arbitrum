@@ -22,11 +22,11 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/crypto/kzg4844"
-	"github.com/ethereum/go-arbitrum/params"
-	"github.com/ethereum/go-arbitrum/rlp"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/crypto/kzg4844"
+	"github.com/serenite11/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 // BlobTx represents an EIP-4844 transaction.

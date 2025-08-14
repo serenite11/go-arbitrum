@@ -26,17 +26,17 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/accounts"
-	"github.com/ethereum/go-arbitrum/accounts/keystore"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/hexutil"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/internal/ethapi"
-	"github.com/ethereum/go-arbitrum/rlp"
-	"github.com/ethereum/go-arbitrum/signer/core"
-	"github.com/ethereum/go-arbitrum/signer/core/apitypes"
-	"github.com/ethereum/go-arbitrum/signer/fourbyte"
-	"github.com/ethereum/go-arbitrum/signer/storage"
+	"github.com/serenite11/go-arbitrum/accounts"
+	"github.com/serenite11/go-arbitrum/accounts/keystore"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/hexutil"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/internal/ethapi"
+	"github.com/serenite11/go-arbitrum/rlp"
+	"github.com/serenite11/go-arbitrum/signer/core"
+	"github.com/serenite11/go-arbitrum/signer/core/apitypes"
+	"github.com/serenite11/go-arbitrum/signer/fourbyte"
+	"github.com/serenite11/go-arbitrum/signer/storage"
 )
 
 // Used for testing

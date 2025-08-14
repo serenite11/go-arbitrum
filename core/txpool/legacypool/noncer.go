@@ -19,8 +19,8 @@ package legacypool
 import (
 	"sync"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/state"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/state"
 )
 
 // noncer is a tiny virtual state database to manage the executable nonces of

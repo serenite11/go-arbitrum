@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ethereum/go-arbitrum/event"
+	"github.com/serenite11/go-arbitrum/event"
 )
 
 // This example demonstrates how SubscriptionScope can be used to control the lifetime of

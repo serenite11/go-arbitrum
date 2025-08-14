@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/ethereum/go-arbitrum/core/tracing"
+	"github.com/serenite11/go-arbitrum/core/tracing"
 )
 
 type ctorFunc func(config json.RawMessage) (*tracing.Hooks, error)

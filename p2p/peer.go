@@ -25,13 +25,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common/mclock"
-	"github.com/ethereum/go-arbitrum/event"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/metrics"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
-	"github.com/ethereum/go-arbitrum/p2p/enr"
-	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/serenite11/go-arbitrum/common/mclock"
+	"github.com/serenite11/go-arbitrum/event"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/metrics"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/p2p/enr"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 var (

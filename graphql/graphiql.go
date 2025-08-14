@@ -27,8 +27,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/ethereum/go-arbitrum/graphql/internal/graphiql"
-	"github.com/ethereum/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/graphql/internal/graphiql"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 // GraphiQL is an in-browser IDE for exploring GraphiQL APIs.

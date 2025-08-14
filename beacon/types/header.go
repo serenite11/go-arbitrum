@@ -21,10 +21,10 @@ import (
 	"crypto/sha256"
 	"encoding/binary"
 
-	"github.com/ethereum/go-arbitrum/beacon/merkle"
-	"github.com/ethereum/go-arbitrum/beacon/params"
-	"github.com/ethereum/go-arbitrum/common"
 	zrntcommon "github.com/protolambda/zrnt/eth2/beacon/common"
+	"github.com/serenite11/go-arbitrum/beacon/merkle"
+	"github.com/serenite11/go-arbitrum/beacon/params"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 //go:generate go run github.com/fjl/gencodec -type Header -field-override headerMarshaling -out gen_header_json.go

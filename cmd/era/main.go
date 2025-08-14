@@ -27,13 +27,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/internal/era"
-	"github.com/ethereum/go-arbitrum/internal/ethapi"
-	"github.com/ethereum/go-arbitrum/internal/flags"
-	"github.com/ethereum/go-arbitrum/params"
-	"github.com/ethereum/go-arbitrum/trie"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/internal/era"
+	"github.com/serenite11/go-arbitrum/internal/ethapi"
+	"github.com/serenite11/go-arbitrum/internal/flags"
+	"github.com/serenite11/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/trie"
 	"github.com/urfave/cli/v2"
 )
 

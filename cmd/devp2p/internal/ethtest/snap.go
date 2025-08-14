@@ -24,14 +24,14 @@ import (
 	"math/rand"
 	"reflect"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/state"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/crypto"
-	"github.com/ethereum/go-arbitrum/eth/protocols/snap"
-	"github.com/ethereum/go-arbitrum/internal/utesting"
-	"github.com/ethereum/go-arbitrum/trie"
-	"github.com/ethereum/go-arbitrum/trie/trienode"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/state"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/crypto"
+	"github.com/serenite11/go-arbitrum/eth/protocols/snap"
+	"github.com/serenite11/go-arbitrum/internal/utesting"
+	"github.com/serenite11/go-arbitrum/trie"
+	"github.com/serenite11/go-arbitrum/trie/trienode"
 )
 
 func (c *Conn) snapRequest(code uint64, msg any) (any, error) {

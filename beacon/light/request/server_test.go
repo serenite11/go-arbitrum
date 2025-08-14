@@ -3,7 +3,7 @@ package request
 import (
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/common/mclock"
+	"github.com/serenite11/go-arbitrum/common/mclock"
 )
 
 const (

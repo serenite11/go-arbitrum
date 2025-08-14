@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/p2p"
+	"github.com/serenite11/go-arbitrum/p2p"
 )
 
 var (

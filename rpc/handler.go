@@ -28,7 +28,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 // handler handles JSON-RPC messages. There is one handler per connection. Note that

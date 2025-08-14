@@ -17,8 +17,8 @@
 package engine
 
 import (
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/rpc"
 )
 
 // EngineAPIError is a standardized error message between consensus and execution

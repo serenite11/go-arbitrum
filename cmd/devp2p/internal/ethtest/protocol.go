@@ -17,8 +17,8 @@
 package ethtest
 
 import (
-	"github.com/ethereum/go-arbitrum/p2p"
-	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/serenite11/go-arbitrum/p2p"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 // Unexported devp2p message codes from p2p/peer.go.

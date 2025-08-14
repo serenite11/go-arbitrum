@@ -25,7 +25,7 @@ import (
 	"slices"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 const (

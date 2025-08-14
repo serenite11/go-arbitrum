@@ -28,8 +28,8 @@ import (
 	"time"
 
 	mapset "github.com/deckarep/golang-set/v2"
-	"github.com/ethereum/go-arbitrum/log"
 	"github.com/gorilla/websocket"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 const (

@@ -1,4 +1,4 @@
-module github.com/ethereum/go-arbitrum
+module github.com/serenite11/go-arbitrum
 
 go 1.23.0
 

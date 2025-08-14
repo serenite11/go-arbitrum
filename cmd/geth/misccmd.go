@@ -22,7 +22,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/internal/version"
+	"github.com/serenite11/go-arbitrum/internal/version"
 	"github.com/urfave/cli/v2"
 )
 

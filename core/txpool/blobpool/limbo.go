@@ -19,11 +19,11 @@ package blobpool
 import (
 	"errors"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/rlp"
 	"github.com/holiman/billy"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 // limboBlob is a wrapper around an opaque blobset that also contains the tx hash

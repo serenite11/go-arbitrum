@@ -16,7 +16,7 @@
 
 package pathdb
 
-import "github.com/ethereum/go-arbitrum/metrics"
+import "github.com/serenite11/go-arbitrum/metrics"
 
 var (
 	cleanNodeHitMeter   = metrics.NewRegisteredMeter("pathdb/clean/node/hit", nil)

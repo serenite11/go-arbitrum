@@ -25,11 +25,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/accounts/keystore"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/console/prompt"
-	"github.com/ethereum/go-arbitrum/p2p/dnsdisc"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/accounts/keystore"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/console/prompt"
+	"github.com/serenite11/go-arbitrum/p2p/dnsdisc"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
 	"github.com/urfave/cli/v2"
 )
 

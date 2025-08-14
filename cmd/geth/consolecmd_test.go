@@ -26,7 +26,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/internal/version"
+	"github.com/serenite11/go-arbitrum/internal/version"
 )
 
 const (

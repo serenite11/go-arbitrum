@@ -19,8 +19,8 @@ package utils
 import (
 	"fmt"
 
-	"github.com/ethereum/go-arbitrum/eth/ethconfig"
-	"github.com/ethereum/go-arbitrum/internal/flags"
+	"github.com/serenite11/go-arbitrum/eth/ethconfig"
+	"github.com/serenite11/go-arbitrum/internal/flags"
 	"github.com/urfave/cli/v2"
 )
 

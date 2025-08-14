@@ -23,10 +23,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/internal/utesting"
-	"github.com/ethereum/go-arbitrum/p2p/discover/v5wire"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
-	"github.com/ethereum/go-arbitrum/p2p/netutil"
+	"github.com/serenite11/go-arbitrum/internal/utesting"
+	"github.com/serenite11/go-arbitrum/p2p/discover/v5wire"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/p2p/netutil"
 )
 
 // Suite is the discv5 test suite.

@@ -20,11 +20,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/eth"
-	"github.com/ethereum/go-arbitrum/eth/ethconfig"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/node"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/eth"
+	"github.com/serenite11/go-arbitrum/eth/ethconfig"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/node"
 )
 
 // FullSyncTester is an auxiliary service that allows Geth to perform full sync

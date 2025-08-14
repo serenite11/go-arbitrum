@@ -22,7 +22,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 // Node is a wrapper which contains the encoded blob of the trie node and its

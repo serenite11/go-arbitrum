@@ -21,7 +21,7 @@ import (
 	"net"
 	"net/netip"
 
-	"github.com/ethereum/go-arbitrum/metrics"
+	"github.com/serenite11/go-arbitrum/metrics"
 )
 
 const (

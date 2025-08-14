@@ -22,10 +22,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/eth/protocols/eth"
-	"github.com/ethereum/go-arbitrum/internal/utesting"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/eth/protocols/eth"
+	"github.com/serenite11/go-arbitrum/internal/utesting"
 )
 
 // sendTxs sends the given transactions to the node and

@@ -17,10 +17,10 @@
 package vm
 
 import (
-	"github.com/ethereum/go-arbitrum/arbitrum/multigas"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/tracing"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/arbitrum/multigas"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/tracing"
 )
 
 // Contract represents an ethereum contract in the state database. It contains

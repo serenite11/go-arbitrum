@@ -22,9 +22,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/p2p/discover/v5wire"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/p2p/discover/v5wire"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
 )
 
 // This is a limit for the number of concurrent talk requests.

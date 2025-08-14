@@ -22,8 +22,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/metrics"
-	"github.com/ethereum/go-arbitrum/metrics/internal"
+	"github.com/serenite11/go-arbitrum/metrics"
+	"github.com/serenite11/go-arbitrum/metrics/internal"
 )
 
 func TestMain(m *testing.M) {

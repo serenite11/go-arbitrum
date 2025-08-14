@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ethereum/go-arbitrum/internal/flags"
+	"github.com/serenite11/go-arbitrum/internal/flags"
 	"github.com/urfave/cli/v2"
 )
 

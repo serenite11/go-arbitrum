@@ -19,12 +19,12 @@ package blsync
 import (
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/beacon/light/request"
-	"github.com/ethereum/go-arbitrum/beacon/light/sync"
-	"github.com/ethereum/go-arbitrum/beacon/types"
-	"github.com/ethereum/go-arbitrum/common"
 	zrntcommon "github.com/protolambda/zrnt/eth2/beacon/common"
 	"github.com/protolambda/zrnt/eth2/beacon/deneb"
+	"github.com/serenite11/go-arbitrum/beacon/light/request"
+	"github.com/serenite11/go-arbitrum/beacon/light/sync"
+	"github.com/serenite11/go-arbitrum/beacon/types"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 var (

@@ -23,7 +23,7 @@ import (
 	"errors"
 
 	"github.com/cockroachdb/pebble"
-	"github.com/ethereum/go-arbitrum/ethdb/memorydb"
+	"github.com/serenite11/go-arbitrum/ethdb/memorydb"
 	"github.com/syndtr/goleveldb/leveldb"
 )
 

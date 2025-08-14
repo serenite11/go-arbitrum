@@ -22,8 +22,8 @@ import (
 	"maps"
 	"strings"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/types"
 )
 
 // DeploymentParams contains parameters needed to deploy one or more contracts via LinkAndDeploy

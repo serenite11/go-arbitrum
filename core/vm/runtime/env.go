@@ -17,8 +17,8 @@
 package runtime
 
 import (
-	"github.com/ethereum/go-arbitrum/core"
-	"github.com/ethereum/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/core"
+	"github.com/serenite11/go-arbitrum/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

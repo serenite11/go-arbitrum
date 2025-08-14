@@ -22,10 +22,10 @@ import (
 	"fmt"
 	"math/bits"
 
-	"github.com/ethereum/go-arbitrum/beacon/params"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/hexutil"
 	bls "github.com/protolambda/bls12-381-util"
+	"github.com/serenite11/go-arbitrum/beacon/params"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/hexutil"
 )
 
 // SerializedSyncCommitteeSize is the size of the sync committee plus the

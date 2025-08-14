@@ -25,21 +25,21 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/accounts/abi"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/consensus"
-	"github.com/ethereum/go-arbitrum/core"
-	"github.com/ethereum/go-arbitrum/core/state"
-	"github.com/ethereum/go-arbitrum/core/tracing"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/core/vm"
-	"github.com/ethereum/go-arbitrum/core/vm/program"
-	"github.com/ethereum/go-arbitrum/eth/tracers"
-	"github.com/ethereum/go-arbitrum/eth/tracers/logger"
-	"github.com/ethereum/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/accounts/abi"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/consensus"
+	"github.com/serenite11/go-arbitrum/core"
+	"github.com/serenite11/go-arbitrum/core/state"
+	"github.com/serenite11/go-arbitrum/core/tracing"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/core/vm/program"
+	"github.com/serenite11/go-arbitrum/eth/tracers"
+	"github.com/serenite11/go-arbitrum/eth/tracers/logger"
+	"github.com/serenite11/go-arbitrum/params"
 
 	// force-load js tracers to trigger registration
-	_ "github.com/ethereum/go-arbitrum/eth/tracers/js"
+	_ "github.com/serenite11/go-arbitrum/eth/tracers/js"
 )
 
 func TestDefaults(t *testing.T) {
@@ -601,7 +601,7 @@ func TestEip2929Cases(t *testing.T) {
 
 // TestColdAccountAccessCost test that the cold account access cost is reported
 // correctly
-// see: https://github.com/ethereum/go-arbitrum/issues/22649
+// see: https://github.com/serenite11/go-arbitrum/issues/22649
 func TestColdAccountAccessCost(t *testing.T) {
 	for i, tc := range []struct {
 		code []byte

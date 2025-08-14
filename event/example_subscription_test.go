@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/ethereum/go-arbitrum/event"
+	"github.com/serenite11/go-arbitrum/event"
 )
 
 func ExampleNewSubscription() {

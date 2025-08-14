@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ethereum/go-arbitrum/common/hexutil"
+	"github.com/serenite11/go-arbitrum/common/hexutil"
 )
 
 type MyType [5]byte

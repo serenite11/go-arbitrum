@@ -23,10 +23,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/accounts"
-	"github.com/ethereum/go-arbitrum/event"
-	"github.com/ethereum/go-arbitrum/log"
 	"github.com/karalabe/hid"
+	"github.com/serenite11/go-arbitrum/accounts"
+	"github.com/serenite11/go-arbitrum/event"
+	"github.com/serenite11/go-arbitrum/log"
 )
 
 // LedgerScheme is the protocol scheme prefixing account and wallet URLs.

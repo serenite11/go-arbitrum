@@ -21,10 +21,10 @@ import (
 	"sync"
 
 	"github.com/crate-crypto/go-ipa/bandersnatch/fr"
-	"github.com/ethereum/go-arbitrum/common/lru"
-	"github.com/ethereum/go-arbitrum/metrics"
 	"github.com/ethereum/go-verkle"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/common/lru"
+	"github.com/serenite11/go-arbitrum/metrics"
 )
 
 const (

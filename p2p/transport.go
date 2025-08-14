@@ -26,11 +26,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/bitutil"
-	"github.com/ethereum/go-arbitrum/metrics"
-	"github.com/ethereum/go-arbitrum/p2p/rlpx"
-	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/bitutil"
+	"github.com/serenite11/go-arbitrum/metrics"
+	"github.com/serenite11/go-arbitrum/p2p/rlpx"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 const (

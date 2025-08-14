@@ -24,8 +24,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-arbitrum/common/math"
-	"github.com/ethereum/go-arbitrum/crypto/secp256k1"
+	"github.com/serenite11/go-arbitrum/common/math"
+	"github.com/serenite11/go-arbitrum/crypto/secp256k1"
 )
 
 // Ecrecover returns the uncompressed public key that created the given signature.

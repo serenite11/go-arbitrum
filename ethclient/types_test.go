@@ -22,8 +22,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum"
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 func TestToFilterArg(t *testing.T) {

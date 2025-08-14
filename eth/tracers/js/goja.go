@@ -25,18 +25,18 @@ import (
 	"sync"
 
 	"github.com/dop251/goja"
-	"github.com/ethereum/go-arbitrum/core/tracing"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/eth/tracers"
-	"github.com/ethereum/go-arbitrum/eth/tracers/internal"
-	"github.com/ethereum/go-arbitrum/params"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/core/tracing"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/eth/tracers"
+	"github.com/serenite11/go-arbitrum/eth/tracers/internal"
+	"github.com/serenite11/go-arbitrum/params"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/hexutil"
-	"github.com/ethereum/go-arbitrum/core/vm"
-	"github.com/ethereum/go-arbitrum/crypto"
-	jsassets "github.com/ethereum/go-arbitrum/eth/tracers/js/internal/tracers"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/hexutil"
+	"github.com/serenite11/go-arbitrum/core/vm"
+	"github.com/serenite11/go-arbitrum/crypto"
+	jsassets "github.com/serenite11/go-arbitrum/eth/tracers/js/internal/tracers"
 )
 
 var assetTracers = make(map[string]string)

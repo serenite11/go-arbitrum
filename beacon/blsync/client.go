@@ -17,18 +17,18 @@
 package blsync
 
 import (
-	"github.com/ethereum/go-arbitrum/beacon/light"
-	"github.com/ethereum/go-arbitrum/beacon/light/api"
-	"github.com/ethereum/go-arbitrum/beacon/light/request"
-	"github.com/ethereum/go-arbitrum/beacon/light/sync"
-	"github.com/ethereum/go-arbitrum/beacon/params"
-	"github.com/ethereum/go-arbitrum/beacon/types"
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/common/mclock"
-	"github.com/ethereum/go-arbitrum/ethdb/memorydb"
-	"github.com/ethereum/go-arbitrum/event"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/beacon/light"
+	"github.com/serenite11/go-arbitrum/beacon/light/api"
+	"github.com/serenite11/go-arbitrum/beacon/light/request"
+	"github.com/serenite11/go-arbitrum/beacon/light/sync"
+	"github.com/serenite11/go-arbitrum/beacon/params"
+	"github.com/serenite11/go-arbitrum/beacon/types"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common/mclock"
+	"github.com/serenite11/go-arbitrum/ethdb/memorydb"
+	"github.com/serenite11/go-arbitrum/event"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/rpc"
 )
 
 type Client struct {

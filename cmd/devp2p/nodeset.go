@@ -25,8 +25,8 @@ import (
 	"slices"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/p2p/enode"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/p2p/enode"
 )
 
 const jsonIndent = "    "

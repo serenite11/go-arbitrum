@@ -19,8 +19,8 @@ package simulated
 import (
 	"math/big"
 
-	"github.com/ethereum/go-arbitrum/eth/ethconfig"
-	"github.com/ethereum/go-arbitrum/node"
+	"github.com/serenite11/go-arbitrum/eth/ethconfig"
+	"github.com/serenite11/go-arbitrum/node"
 )
 
 // WithBlockGasLimit configures the simulated backend to target a specific gas limit

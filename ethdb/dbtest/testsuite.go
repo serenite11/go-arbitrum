@@ -24,7 +24,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/ethdb"
+	"github.com/serenite11/go-arbitrum/ethdb"
 )
 
 // TestDatabaseSuite runs a suite of tests against a KeyValueStore database

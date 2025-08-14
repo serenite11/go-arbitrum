@@ -17,7 +17,7 @@
 package vm
 
 import (
-	"github.com/ethereum/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/params"
 )
 
 func minSwapStack(n int) int {

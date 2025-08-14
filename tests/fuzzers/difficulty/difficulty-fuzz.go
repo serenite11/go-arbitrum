@@ -23,8 +23,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/ethereum/go-arbitrum/consensus/ethash"
-	"github.com/ethereum/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/consensus/ethash"
+	"github.com/serenite11/go-arbitrum/core/types"
 )
 
 type fuzzer struct {

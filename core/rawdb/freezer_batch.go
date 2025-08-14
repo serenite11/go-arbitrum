@@ -21,8 +21,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/rlp"
 	"github.com/golang/snappy"
+	"github.com/serenite11/go-arbitrum/rlp"
 )
 
 // This is the maximum amount of data that will be buffered in memory

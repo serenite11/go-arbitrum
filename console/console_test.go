@@ -25,14 +25,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/console/prompt"
-	"github.com/ethereum/go-arbitrum/core"
-	"github.com/ethereum/go-arbitrum/eth"
-	"github.com/ethereum/go-arbitrum/eth/ethconfig"
-	"github.com/ethereum/go-arbitrum/internal/jsre"
-	"github.com/ethereum/go-arbitrum/miner"
-	"github.com/ethereum/go-arbitrum/node"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/console/prompt"
+	"github.com/serenite11/go-arbitrum/core"
+	"github.com/serenite11/go-arbitrum/eth"
+	"github.com/serenite11/go-arbitrum/eth/ethconfig"
+	"github.com/serenite11/go-arbitrum/internal/jsre"
+	"github.com/serenite11/go-arbitrum/miner"
+	"github.com/serenite11/go-arbitrum/node"
 )
 
 const (

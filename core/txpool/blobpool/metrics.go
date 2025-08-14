@@ -16,7 +16,7 @@
 
 package blobpool
 
-import "github.com/ethereum/go-arbitrum/metrics"
+import "github.com/serenite11/go-arbitrum/metrics"
 
 var (
 	// datacapGauge tracks the user's configured capacity for the blob pool. It

@@ -3,7 +3,7 @@ package vm
 import (
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/arbitrum/multigas"
+	"github.com/serenite11/go-arbitrum/arbitrum/multigas"
 )
 
 func TestConstantMultiGas(t *testing.T) {

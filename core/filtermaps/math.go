@@ -23,7 +23,7 @@ import (
 	"math"
 	"sort"
 
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 // Params defines the basic parameters of the log index structure.

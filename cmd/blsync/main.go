@@ -22,13 +22,13 @@ import (
 	"os"
 	"slices"
 
-	"github.com/ethereum/go-arbitrum/beacon/blsync"
-	"github.com/ethereum/go-arbitrum/cmd/utils"
-	"github.com/ethereum/go-arbitrum/internal/debug"
-	"github.com/ethereum/go-arbitrum/internal/flags"
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/node"
-	"github.com/ethereum/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/beacon/blsync"
+	"github.com/serenite11/go-arbitrum/cmd/utils"
+	"github.com/serenite11/go-arbitrum/internal/debug"
+	"github.com/serenite11/go-arbitrum/internal/flags"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/node"
+	"github.com/serenite11/go-arbitrum/rpc"
 	"github.com/urfave/cli/v2"
 )
 

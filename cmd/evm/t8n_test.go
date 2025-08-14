@@ -28,9 +28,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ethereum/go-arbitrum/cmd/evm/internal/t8ntool"
-	"github.com/ethereum/go-arbitrum/internal/cmdtest"
-	"github.com/ethereum/go-arbitrum/internal/reexec"
+	"github.com/serenite11/go-arbitrum/cmd/evm/internal/t8ntool"
+	"github.com/serenite11/go-arbitrum/internal/cmdtest"
+	"github.com/serenite11/go-arbitrum/internal/reexec"
 )
 
 func TestMain(m *testing.M) {

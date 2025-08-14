@@ -2,7 +2,7 @@
 
 package types
 
-import "github.com/ethereum/go-arbitrum/rlp"
+import "github.com/serenite11/go-arbitrum/rlp"
 import "io"
 
 func (obj *StateAccount) EncodeRLP(_w io.Writer) error {

@@ -19,7 +19,7 @@ package vm
 import (
 	"errors"
 
-	"github.com/ethereum/go-arbitrum/params"
+	"github.com/serenite11/go-arbitrum/params"
 )
 
 // LookupInstructionSet returns the instruction set for the fork configured by

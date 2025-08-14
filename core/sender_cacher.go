@@ -20,7 +20,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/ethereum/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/core/types"
 )
 
 // senderCacherOnce is used to ensure that the SenderCacher is initialized only once.

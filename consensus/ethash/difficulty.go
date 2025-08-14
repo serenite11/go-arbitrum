@@ -19,8 +19,8 @@ package ethash
 import (
 	"math/big"
 
-	"github.com/ethereum/go-arbitrum/core/types"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/core/types"
 )
 
 const (

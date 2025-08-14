@@ -25,8 +25,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
 	"github.com/golang-jwt/jwt/v4"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 // EngineClient is a wrapper around engine-related data.

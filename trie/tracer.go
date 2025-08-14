@@ -19,7 +19,7 @@ package trie
 import (
 	"maps"
 
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 // tracer tracks the changes of trie nodes. During the trie operations,

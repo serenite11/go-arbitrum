@@ -20,8 +20,8 @@
 package node
 
 import (
-	"github.com/ethereum/go-arbitrum/p2p"
-	"github.com/ethereum/go-arbitrum/rpc"
+	"github.com/serenite11/go-arbitrum/p2p"
+	"github.com/serenite11/go-arbitrum/rpc"
 )
 
 // NoopLifecycle is a trivial implementation of the Service interface.

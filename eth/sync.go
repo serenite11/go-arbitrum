@@ -17,9 +17,9 @@
 package eth
 
 import (
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core/txpool"
-	"github.com/ethereum/go-arbitrum/eth/protocols/eth"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core/txpool"
+	"github.com/serenite11/go-arbitrum/eth/protocols/eth"
 )
 
 // syncTransactions starts sending all currently pending transactions to the given peer.

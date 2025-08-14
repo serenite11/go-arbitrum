@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common/mclock"
+	"github.com/serenite11/go-arbitrum/common/mclock"
 )
 
 // Subscription represents a stream of events. The carrier of the events is typically a

@@ -9,9 +9,9 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/ethereum/go-arbitrum/log"
-	"github.com/ethereum/go-arbitrum/metrics"
-	"github.com/ethereum/go-arbitrum/metrics/prometheus"
+	"github.com/serenite11/go-arbitrum/log"
+	"github.com/serenite11/go-arbitrum/metrics"
+	"github.com/serenite11/go-arbitrum/metrics/prometheus"
 )
 
 type exp struct {

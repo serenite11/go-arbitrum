@@ -20,12 +20,12 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ethereum/go-arbitrum/common"
-	"github.com/ethereum/go-arbitrum/core"
-	"github.com/ethereum/go-arbitrum/core/types"
-	"github.com/ethereum/go-arbitrum/crypto/kzg4844"
-	"github.com/ethereum/go-arbitrum/event"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/core"
+	"github.com/serenite11/go-arbitrum/core/types"
+	"github.com/serenite11/go-arbitrum/crypto/kzg4844"
+	"github.com/serenite11/go-arbitrum/event"
 )
 
 // LazyTransaction contains a small subset of the transaction properties that is

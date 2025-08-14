@@ -23,17 +23,17 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ethereum/go-arbitrum/cmd/evm/internal/t8ntool"
-	"github.com/ethereum/go-arbitrum/core/state"
-	"github.com/ethereum/go-arbitrum/core/tracing"
-	"github.com/ethereum/go-arbitrum/eth/tracers/logger"
-	"github.com/ethereum/go-arbitrum/internal/debug"
-	"github.com/ethereum/go-arbitrum/internal/flags"
+	"github.com/serenite11/go-arbitrum/cmd/evm/internal/t8ntool"
+	"github.com/serenite11/go-arbitrum/core/state"
+	"github.com/serenite11/go-arbitrum/core/tracing"
+	"github.com/serenite11/go-arbitrum/eth/tracers/logger"
+	"github.com/serenite11/go-arbitrum/internal/debug"
+	"github.com/serenite11/go-arbitrum/internal/flags"
 	"github.com/urfave/cli/v2"
 
 	// Force-load the tracer engines to trigger registration
-	_ "github.com/ethereum/go-arbitrum/eth/tracers/js"
-	_ "github.com/ethereum/go-arbitrum/eth/tracers/native"
+	_ "github.com/serenite11/go-arbitrum/eth/tracers/js"
+	_ "github.com/serenite11/go-arbitrum/eth/tracers/native"
 )
 
 // Some other nice-to-haves:

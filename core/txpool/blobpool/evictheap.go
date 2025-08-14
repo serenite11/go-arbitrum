@@ -22,8 +22,8 @@ import (
 	"math"
 	"slices"
 
-	"github.com/ethereum/go-arbitrum/common"
 	"github.com/holiman/uint256"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 // evictHeap is a helper data structure to keep track of the cheapest bottleneck

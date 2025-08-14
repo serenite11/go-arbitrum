@@ -19,7 +19,7 @@
 package rawdb
 
 import (
-	"github.com/ethereum/go-arbitrum/common"
+	"github.com/serenite11/go-arbitrum/common"
 )
 
 const WasmSchemaVersion byte = 0x01
