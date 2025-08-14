@@ -21,11 +21,11 @@ import (
 	"math/big"
 	"slices"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/ethereum/go-arbitrum/common"
+	"github.com/ethereum/go-arbitrum/common/hexutil"
+	"github.com/ethereum/go-arbitrum/core/types"
+	"github.com/ethereum/go-arbitrum/params"
+	"github.com/ethereum/go-arbitrum/trie"
 )
 
 // PayloadVersion denotes the version of PayloadAttributes used to request the

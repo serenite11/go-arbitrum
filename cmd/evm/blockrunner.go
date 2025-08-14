@@ -25,9 +25,9 @@ import (
 	"regexp"
 	"slices"
 
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/tests"
+	"github.com/ethereum/go-arbitrum/core"
+	"github.com/ethereum/go-arbitrum/core/rawdb"
+	"github.com/ethereum/go-arbitrum/tests"
 	"github.com/urfave/cli/v2"
 )
 

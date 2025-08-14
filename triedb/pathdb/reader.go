@@ -19,12 +19,12 @@ package pathdb
 import (
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/triedb/database"
+	"github.com/ethereum/go-arbitrum/common"
+	"github.com/ethereum/go-arbitrum/common/hexutil"
+	"github.com/ethereum/go-arbitrum/core/types"
+	"github.com/ethereum/go-arbitrum/log"
+	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/ethereum/go-arbitrum/triedb/database"
 )
 
 // The types of locations where the node is found.

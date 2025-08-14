@@ -19,8 +19,8 @@ package vm
 import (
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/arbitrum/multigas"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/ethereum/go-arbitrum/arbitrum/multigas"
+	"github.com/ethereum/go-arbitrum/params"
 )
 
 type (

@@ -23,13 +23,13 @@ import (
 	"maps"
 
 	"github.com/VictoriaMetrics/fastcache"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/trie/trienode"
+	"github.com/ethereum/go-arbitrum/common"
+	"github.com/ethereum/go-arbitrum/core/rawdb"
+	"github.com/ethereum/go-arbitrum/crypto"
+	"github.com/ethereum/go-arbitrum/ethdb"
+	"github.com/ethereum/go-arbitrum/log"
+	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/ethereum/go-arbitrum/trie/trienode"
 )
 
 // nodeSet represents a collection of modified trie nodes resulting from a state

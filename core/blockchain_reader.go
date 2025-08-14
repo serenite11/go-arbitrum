@@ -19,17 +19,17 @@ package core
 import (
 	"errors"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/state/snapshot"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/triedb"
+	"github.com/ethereum/go-arbitrum/common"
+	"github.com/ethereum/go-arbitrum/consensus"
+	"github.com/ethereum/go-arbitrum/core/rawdb"
+	"github.com/ethereum/go-arbitrum/core/state"
+	"github.com/ethereum/go-arbitrum/core/state/snapshot"
+	"github.com/ethereum/go-arbitrum/core/types"
+	"github.com/ethereum/go-arbitrum/core/vm"
+	"github.com/ethereum/go-arbitrum/event"
+	"github.com/ethereum/go-arbitrum/params"
+	"github.com/ethereum/go-arbitrum/rlp"
+	"github.com/ethereum/go-arbitrum/triedb"
 )
 
 // CurrentHeader retrieves the current head header of the canonical chain. The

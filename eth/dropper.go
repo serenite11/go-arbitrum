@@ -22,11 +22,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p"
+	"github.com/ethereum/go-arbitrum/common"
+	"github.com/ethereum/go-arbitrum/common/mclock"
+	"github.com/ethereum/go-arbitrum/log"
+	"github.com/ethereum/go-arbitrum/metrics"
+	"github.com/ethereum/go-arbitrum/p2p"
 )
 
 const (

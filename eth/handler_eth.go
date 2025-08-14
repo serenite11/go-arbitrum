@@ -20,10 +20,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/eth/protocols/eth"
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/ethereum/go-arbitrum/core"
+	"github.com/ethereum/go-arbitrum/core/types"
+	"github.com/ethereum/go-arbitrum/eth/protocols/eth"
+	"github.com/ethereum/go-arbitrum/p2p/enode"
 )
 
 // ethHandler implements the eth.Backend interface to handle the various network

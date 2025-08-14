@@ -19,7 +19,7 @@ package vm
 import (
 	"math"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/ethereum/go-arbitrum/common"
 	"github.com/holiman/uint256"
 )
 

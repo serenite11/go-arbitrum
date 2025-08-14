@@ -7,12 +7,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/ethereum/go-arbitrum/common/hexutil"
+	"github.com/ethereum/go-arbitrum/common/math"
+	"github.com/ethereum/go-arbitrum/log"
+	"github.com/ethereum/go-arbitrum/rlp"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/ethereum/go-arbitrum/common"
 )
 
 // Returns true if nonce checks should be skipped based on inner's isFake()

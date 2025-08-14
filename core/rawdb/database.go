@@ -27,11 +27,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/ethdb/memorydb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/ethereum/go-arbitrum/common"
+	"github.com/ethereum/go-arbitrum/crypto"
+	"github.com/ethereum/go-arbitrum/ethdb"
+	"github.com/ethereum/go-arbitrum/ethdb/memorydb"
+	"github.com/ethereum/go-arbitrum/log"
 	"github.com/olekukonko/tablewriter"
 )
 

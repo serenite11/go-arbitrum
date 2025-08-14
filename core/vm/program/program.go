@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/core/vm"
+	"github.com/ethereum/go-arbitrum/core/vm"
 	"github.com/holiman/uint256"
 )
 

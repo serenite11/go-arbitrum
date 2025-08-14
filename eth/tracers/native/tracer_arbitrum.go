@@ -19,9 +19,9 @@ package native
 import (
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/tracing"
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/ethereum/go-arbitrum/common"
+	"github.com/ethereum/go-arbitrum/core/tracing"
+	"github.com/ethereum/go-arbitrum/core/types"
 )
 
 type arbitrumTransfer struct {

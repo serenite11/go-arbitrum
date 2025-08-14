@@ -28,7 +28,7 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/ethereum/go-ethereum/accounts/abi"
+	"github.com/ethereum/go-arbitrum/accounts/abi"
 )
 
 // underlyingBindType returns a string representation of the Go type

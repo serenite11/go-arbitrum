@@ -22,10 +22,10 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto/kzg4844"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/ethereum/go-arbitrum/common"
+	"github.com/ethereum/go-arbitrum/crypto/kzg4844"
+	"github.com/ethereum/go-arbitrum/params"
+	"github.com/ethereum/go-arbitrum/rlp"
 	"github.com/holiman/uint256"
 )
 

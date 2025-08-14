@@ -17,7 +17,7 @@
 package core
 
 import (
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/ethereum/go-arbitrum/core/types"
 )
 
 // NewTxsEvent is posted when a batch of transactions enter the transaction pool.

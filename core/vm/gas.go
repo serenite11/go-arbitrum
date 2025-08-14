@@ -17,8 +17,8 @@
 package vm
 
 import (
-	"github.com/ethereum/go-ethereum/arbitrum/multigas"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/ethereum/go-arbitrum/arbitrum/multigas"
+	"github.com/ethereum/go-arbitrum/params"
 	"github.com/holiman/uint256"
 )
 

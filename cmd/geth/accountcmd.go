@@ -22,11 +22,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/accounts/keystore"
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/ethereum/go-arbitrum/accounts"
+	"github.com/ethereum/go-arbitrum/accounts/keystore"
+	"github.com/ethereum/go-arbitrum/cmd/utils"
+	"github.com/ethereum/go-arbitrum/common"
+	"github.com/ethereum/go-arbitrum/crypto"
 	"github.com/urfave/cli/v2"
 )
 
